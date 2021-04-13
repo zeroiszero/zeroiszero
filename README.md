@@ -1,4 +1,4 @@
-![Welcome to my GitHub](https://github.com/helen/helen/blob/trunk/welcome.gif)
+![Welcome to my GitHub](./welcome.gif)
 
 <!--
 **zeroiszero/zeroiszero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
